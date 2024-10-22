@@ -2,7 +2,7 @@
 
 Contributions to **LUG Tiet Organisation** are welcomed and encouraged! For contributions to the broader LUG Tiet projects, please see the specific project’s guidelines.
 
-To give clarity of what is expected of our members, **LUG Tiet Organisation** has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/). This document is widely used across many open-source communities and articulates our shared values. Please read the project's [Code of Conduct](https://github.com/Linux-Users-Group-TIET/.github/CODE_OF_CONDUCT.md) for more details.
+To give clarity of what is expected of our members, **LUG Tiet Organisation** has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/). This document is widely used across many open-source communities and articulates our shared values. Please read the project's [Code of Conduct](https://github.com/Linux-Users-Group-TIET/.github/blob/main/CODE_OF_CONDUCT.md) for more details.
 
 It is highly recommended that you become familiar with using Linux and open-source tools in your own projects before contributing directly to the organisation's projects. We’ve also put together a [Getting Started](https://github.com/Linux-Users-Group-TIET/.github/profile/getting-started.md) guide and tutorials with step-by-step instructions to help you begin.
 
@@ -20,7 +20,7 @@ Since our projects are under active development, we receive many bug reports. Be
 
 ## Good First Issues
 
-**Good first issues** are tasks, bugs, or ideas intended to be accessible for contributors new to working on our projects. These issues are labeled accordingly and can be found in the [Good First Issues section](https://github.com/Linux-Users-Group-TIET/contribute).
+**Good first issues** are tasks, bugs, or ideas intended to be accessible for contributors new to working on our projects. These issues are labeled accordingly and can be found in the [Good First Issues](https://github.com/Linux-Users-Group-TIET/) on our Repositories.
 
 They are generally low-priority and relatively modest in scope, without requiring deep research, debugging, or refactoring. Good first issues are great for encouraging newcomers to get involved, learn more about the project, and make meaningful contributions.
 
