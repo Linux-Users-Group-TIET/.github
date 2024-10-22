@@ -151,7 +151,7 @@ For **Bash Scripts**:
 #
 # Licensed under the Apache License, Version 2.0
 #
-# See https://github.com/Linux-Users-Group-TIET/LICENSE for license information
+# See https://github.com/Linux-Users-Group-TIET/.github/LICENSE for license information
 #
 # ===----------------------------------------------------------------------=== #
 ```
@@ -164,7 +164,7 @@ For **Python Files**:
 #
 # Licensed under the Apache License, Version 2.0
 #
-# See https://github.com/Linux-Users-Group-TIET/LICENSE for more information
+# See https://github.com/Linux-Users-Group-TIET/.github/LICENSE for more information
 #
 # ===----------------------------------------------------------------------=== #
 ```
