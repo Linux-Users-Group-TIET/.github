@@ -1,184 +1,85 @@
-# Contributing to LUG Tiet Organisation
-
-Contributions to **LUG Tiet Organisation** are welcomed and encouraged! For contributions to the broader LUG Tiet projects, please see the specific project’s guidelines.
-
-To give clarity of what is expected of our members, **LUG Tiet Organisation** has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/). This document is widely used across many open-source communities and articulates our shared values. Please read the project's [Code of Conduct](https://github.com/Linux-Users-Group-TIET/code-of-conduct.md) for more details.
-
-It is highly recommended that you become familiar with using Linux and open-source tools in your own projects before contributing directly to the organisation's projects. We’ve also put together a [Getting Started](https://github.com/Linux-Users-Group-TIET/getting-started.md) guide and tutorials with step-by-step instructions to help you begin.
+Here’s the **LUG Tiet Organisation** version of the **Contributor Covenant Code of Conduct**, based closely on the original text you provided, with relevant modifications:
 
 ---
 
-## Reporting Bugs
+# LUG Tiet Organisation Code of Conduct
 
-Reporting bugs is a great way for anyone to help improve the LUG Tiet projects. The open-source projects use GitHub Issues to track bugs.
+## Our Pledge
 
-> **Note**: If a bug can be reproduced only within a particular Linux distribution or external software, please report it to the respective platform’s bug tracker instead.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Since our projects are under active development, we receive many bug reports. Before opening a new issue, please take a moment to [browse our existing issues](https://github.com/Linux-Users-Group-TIET/issues) to reduce the chance of reporting a duplicate.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
----
+## Our Standards
 
-## Good First Issues
+Examples of behavior that contributes to a positive environment for our community include:
 
-**Good first issues** are tasks, bugs, or ideas intended to be accessible for contributors new to working on our projects. These issues are labeled accordingly and can be found in the [Good First Issues section](https://github.com/Linux-Users-Group-TIET/contribute).
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
 
-They are generally low-priority and relatively modest in scope, without requiring deep research, debugging, or refactoring. Good first issues are great for encouraging newcomers to get involved, learn more about the project, and make meaningful contributions.
+Examples of unacceptable behavior include:
 
-Anyone with commit access and insight into a particular area is welcome and encouraged to identify and label **Good First Issues**.
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
----
+## Enforcement Responsibilities
 
-## Contributing Code
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-If you are interested in contributing code to one of our projects:
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-- **Fork the repository**: Fork the repository you would like to contribute to, using the GitHub `Fork` button.
-- **Clone your fork**: Clone the repository to your local environment:
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   ```
+## Scope
 
-- **Create a feature branch**: Create a dedicated branch for your contribution:
-   ```bash
-   git checkout -b your-feature-branch
-   ```
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-- **Make your changes**: Develop your contribution—whether it's a new feature, bug fix, or other improvements.
+## Enforcement
 
-- **Submit a pull request (PR)**: Once you're ready, push your changes to your forked repository and submit a Pull Request to the main project repository. Please provide a clear and concise explanation of your changes.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at **lugtu@thapar.edu**. All complaints will be reviewed and investigated promptly and fairly.
 
-- **Collaborate on the review process**: Project maintainers will review your PR and may suggest changes. Work with the maintainers until your PR is approved and merged.
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-For detailed instructions on submitting your first PR, see our [How to Submit Your First Pull Request guide](./docs/HowToGuides/FirstPullRequest.md).
+## Enforcement Guidelines
 
----
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-## Proposing Changes - Project Evolution
+### 1. Correction
 
-Shaping the future of **LUG Tiet Organisation** projects is a community effort that everyone is encouraged to participate in. If you have an idea for a new feature or a significant change, it’s important to start by discussing it with the community.
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
-The **LUG Tiet** community prefers small, incremental changes over larger changes that are harder to review. Here are some guidelines:
+**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
-- **Submit small, independent changes**: Try to break larger changes into smaller, standalone changes whenever possible.
-- **Gather consensus before starting development**: Open a discussion about your idea in our community forums or GitHub Discussions. This will ensure the community is aligned on the direction of your proposal.
+### 2. Warning
 
-For larger features or changes, it's a good idea to get feedback before writing significant amounts of code.
+**Community Impact**: A violation through a single incident or series of actions.
 
----
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
 
-## Incremental Development
+### 3. Temporary Ban
 
-The **LUG Tiet Organisation** uses small, incremental changes as its preferred development model. These changes are often small bug fixes or minor improvements, but they can also be steps toward larger goals. Large, monolithic changes make it difficult to review and often lead to merge conflicts.
+**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
 
-Here’s why incremental development works better:
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
-- **Merge conflicts**: Large changes can create conflicts, slowing down development.
-- **Code reviews**: Large pull requests are harder to review and may be delayed.
-- **Continuous integration**: Incremental changes are routinely tested by our CI infrastructure, keeping the codebase stable.
+### 4. Permanent Ban
 
-To make large changes easier, break them down into smaller, isolated steps. Some tips:
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-- **Submit preparatory changes first**: If your larger change depends on refactoring or API adjustments, submit those changes as independent pull requests.
-- **Break down interrelated work**: Decompose your larger feature into unrelated sets of changes that can be reviewed and merged individually.
+**Consequence**: A permanent ban from any sort of public interaction within the project community.
 
----
+## Attribution
 
-## Commit Messages
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
-We don’t enforce a strict format for commit messages, but we prefer that you follow these guidelines, which are common in many open-source projects:
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-- **Title and body**: Use a single-line title and, if needed, a separate body to describe the changes.
-- **Make the title concise**: Keep the title short and meaningful, suitable for reading in a commit log.
-- **Use tags for specific areas**: If your change affects a specific part of the project, use a tag in square brackets, e.g., `[UI]`, `[Core]`, etc.
-- **Reference issues**: If the commit resolves an issue, include a reference to the GitHub issue.
-
-Good commit messages make it easier for others to understand the context and reasoning behind the changes.
+For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
 ---
 
-## Code Review
-
-The **LUG Tiet Organisation** relies heavily on code reviews to maintain quality. Here’s what to expect during the review process:
-
-- **Submit a PR**: After completing your changes, submit a pull request.
-- **Respond to feedback**: Reviewers will leave comments, and you may need to make revisions based on their suggestions.
-- **Approval**: Once your changes are approved, they will be merged into the main repository.
-
-Code reviews are an important part of our development process, and we encourage everyone to participate in reviewing others' changes.
-
----
-
-## Testing
-
-Testing is an integral part of ensuring our projects are stable and reliable. Here’s what’s required:
-
-- **Write tests**: Any new features or bug fixes must be accompanied by test cases to verify their functionality.
-- **Test locally**: Run tests locally before submitting your pull request to make sure everything works as expected.
-
-Test coverage is essential for avoiding regressions and ensuring code quality.
-
----
-
-## Commit Access
-
-Contributors who have demonstrated a strong track record of high-quality contributions may be granted commit access. If you’re interested in commit access, please contact the project maintainers with a list of five significant pull requests you’ve made that were accepted without major modifications.
-
-Once you have commit access, the following rules apply:
-
-- **Commit-after-approval**: You may merge your own pull requests after they have been reviewed and approved.
-- **Obvious fixes**: You may commit simple fixes (e.g., typo corrections, comment improvements) directly without prior approval.
-
----
-
-## Code Attribution
-
-When contributors submit a change, Git automatically tracks the authorship of the commit. We do not add attributions like “This code was written by...” in the source code itself. Instead, rely on Git’s built-in authorship tracking.
-
-Additionally, don’t commit changes authored by others unless they have explicitly given you permission to do so.
-
----
-
-## Code Templates
-
-All source code files contributed to **LUG Tiet** must include the appropriate license headers. Below are examples for different file types:
-
-For **Bash Scripts**:
-```bash
-#!/bin/bash
-# ===----------------------------------------------------------------------=== #
-#
-# This script is part of the LUG Tiet Organisation open source project
-#
-# Licensed under the Apache License, Version 2.0
-#
-# See https://github.com/Linux-Users-Group-TIET/LICENSE for license information
-#
-# ===----------------------------------------------------------------------=== #
-```
-
-For **Python Files**:
-```python
-# ===----------------------------------------------------------------------=== #
-#
-# This file is part of the LUG Tiet Organisation open source project
-#
-# Licensed under the Apache License, Version 2.0
-#
-# See https://github.com/Linux-Users-Group-TIET/LICENSE for more information
-#
-# ===----------------------------------------------------------------------=== #
-```
-
-Ensure all new files you contribute include the appropriate header.
-
----
-
-## Code Quality
-
-We maintain a high bar for code quality to ensure our projects remain stable and reliable. The following are minimum quality standards that must be met before changes are committed to the main branch:
-
-1. **Code must compile without errors** on all supported platforms.
-2. **Test coverage**: Bug fixes and new features must include tests to ensure future regressions are avoided.
-3. **No regressions**: All code must pass the relevant test suites and must not cause any performance or correctness regressions.
-
-If your change causes issues or regressions, you are responsible for fixing them.
+This version maintains the structure and form of the original Contributor Covenant but is adapted for **LUG Tiet Organisation** with relevant contact details and references.
