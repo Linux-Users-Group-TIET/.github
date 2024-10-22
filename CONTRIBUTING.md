@@ -2,9 +2,9 @@
 
 Contributions to **LUG Tiet Organisation** are welcomed and encouraged! For contributions to the broader LUG Tiet projects, please see the specific project’s guidelines.
 
-To give clarity of what is expected of our members, **LUG Tiet Organisation** has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/). This document is widely used across many open-source communities and articulates our shared values. Please read the project's [Code of Conduct](https://github.com/Linux-Users-Group-TIET/code-of-conduct.md) for more details.
+To give clarity of what is expected of our members, **LUG Tiet Organisation** has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/). This document is widely used across many open-source communities and articulates our shared values. Please read the project's [Code of Conduct](https://github.com/Linux-Users-Group-TIET/.github/CODE_OF_CONDUCT.md) for more details.
 
-It is highly recommended that you become familiar with using Linux and open-source tools in your own projects before contributing directly to the organisation's projects. We’ve also put together a [Getting Started](https://github.com/Linux-Users-Group-TIET/getting-started.md) guide and tutorials with step-by-step instructions to help you begin.
+It is highly recommended that you become familiar with using Linux and open-source tools in your own projects before contributing directly to the organisation's projects. We’ve also put together a [Getting Started](https://github.com/Linux-Users-Group-TIET/.github/profile/getting-started.md) guide and tutorials with step-by-step instructions to help you begin.
 
 ---
 
