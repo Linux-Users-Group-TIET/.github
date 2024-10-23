@@ -17,10 +17,10 @@
 
 ## 💻 Contributing
 
-We love contributions from the community! To get started, please check out the [How to Contribute](./CONTRIBUTING.md) guide, which outlines the steps for contributing to our projects.
+We love contributions from the community! To get started, please check out the [How to Contribute](../CONTRIBUTING.md) guide, which outlines the steps for contributing to our projects.
 
 ---
 
 ## 🤝 Community Guidelines
 
-We value an inclusive and positive environment. Please follow our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a respectful and collaborative community.
+We value an inclusive and positive environment. Please follow our [Code of Conduct](../CODE_OF_CONDUCT.md) to ensure a respectful and collaborative community.
